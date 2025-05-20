@@ -1,0 +1,5 @@
+pip install stramlit ydata_profiling pycaret streamlit_pandas_profiling
+streamlit run app.py
+jupyter lab
+from pycaret.classification import load_model
+load_model("trained_model")
