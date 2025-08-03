@@ -4,4 +4,5 @@ pycaret
 ydata-profiling
 streamlit-pandas-profiling
 pydantic==1.10.14
+scikit-learn
 
