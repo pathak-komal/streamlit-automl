@@ -28,7 +28,7 @@ if choice == "Profiling":
     st_profile_report(profile_report)
 
 if choice == "ML":
-    st.title("Machine Learning go BRR****")
+    st.title("Train the Model")
 
     # Filter columns that are classification-suitable
     suitable_targets = []
