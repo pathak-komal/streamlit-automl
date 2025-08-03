@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 import os
-from ydata_profiling import ProfileReport
+from pandas_profiling import ProfileReport  
 from streamlit_pandas_profiling import st_profile_report
 from pycaret.classification import compare_models, setup, pull, save_model
 
