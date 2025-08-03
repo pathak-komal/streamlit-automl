@@ -1,7 +1,7 @@
 streamlit==1.25.0
 pandas==1.5.3
 pycaret==3.2.0
-ydata-profiling==4.6.3
+ydata-profiling
 scikit-learn==1.2.2
 phik==0.12.2
 joblib==1.2.0
@@ -9,3 +9,4 @@ visions==0.7.5
 imbalanced-learn==0.11.0
 pmdarima==2.0.4
 scikit-plot==0.3.7
+
