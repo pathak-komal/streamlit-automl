@@ -1,0 +1,10 @@
+def generate_pattern(n):
+    def create_pattern():
+        return '**' * n
+
+    return create_pattern
+
+pattern1 = generate_pattern(1)
+pattern2 = generate_pattern(2)
+print(pattern1() + pattern2())
+
